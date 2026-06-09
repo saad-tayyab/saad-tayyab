@@ -6,9 +6,9 @@ Building scalable backend systems, financial workflows, and distributed applicat
 
 📍 Lahore, Pakistan · 🌍 Open to remote opportunities
 
-[![Email](https://img.shields.io/badge/Email-saad__tayyab@outlook.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:saad_tayyab@outlook.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-saadtayyab-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadtayyab)
-[![GitHub](https://img.shields.io/badge/GitHub-saad--tayyab-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/saad-tayyab)
+[![Email](https://img.shields.io/badge/Email-saad__tayyab@outlook.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saad_tayyab@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-saadtayyab-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saadtayyab)
+[![GitHub](https://img.shields.io/badge/GitHub-saad--tayyab-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saad-tayyab)
 
 ---
 
@@ -42,160 +42,160 @@ Enterprise maritime ERP platform supporting global shipping operations.
 
 ### ⚙️ Backend
 
-<a href="https://www.typescriptlang.org/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
+<a href="https://www.typescriptlang.org/">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />&nbsp;
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </a>
 
-<a href="https://nodejs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
+<a href="https://nodejs.org/">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
 </a>
 
-<a href="https://expressjs.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />&nbsp;
+<a href="https://expressjs.com/">
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
 </a>
 
-<a href="https://www.microsoft.com/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp;
+<a href="https://www.microsoft.com/sql-server">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </a>
 
-<a href="https://typeorm.io/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />&nbsp;
+<a href="https://typeorm.io/">
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" />
 </a>
 
-<a href="https://www.rabbitmq.com/" target="_blank">
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />&nbsp;
+<a href="https://www.rabbitmq.com/">
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
 </a>
 
 ---
 
 ### 🎨 Frontend
 
-<a href="https://react.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+<a href="https://react.dev/">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
-<a href="https://angular.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />&nbsp;
+<a href="https://angular.dev/">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
 </a>
 
-<a href="https://nextjs.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />&nbsp;
+<a href="https://nextjs.org/">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 </a>
 
-<a href="https://reactnative.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
+<a href="https://reactnative.dev/">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </a>
 
-<a href="https://expo.dev/" target="_blank">
-  <img src="https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white" />&nbsp;
+<a href="https://expo.dev/">
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
 </a>
 
 ---
 
 ### 🗄️ Databases & ORM
 
-<a href="https://www.microsoft.com/sql-server" target="_blank">
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />&nbsp;
+<a href="https://www.microsoft.com/sql-server">
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
+<a href="https://www.postgresql.org/">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </a>
 
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />&nbsp;
+<a href="https://www.mysql.com/">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </a>
 
-<a href="https://www.mongodb.com/" target="_blank">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />&nbsp;
+<a href="https://www.mongodb.com/">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </a>
 
-<a href="https://www.prisma.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />&nbsp;
+<a href="https://www.prisma.io/">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
 </a>
 
-<a href="https://typeorm.io/" target="_blank">
-  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=flat-square&logo=typeorm&logoColor=white" />&nbsp;
+<a href="https://typeorm.io/">
+  <img src="https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white" />
 </a>
 
 ---
 
 ### ☁️ Cloud & DevOps
 
-<a href="https://aws.amazon.com/" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />&nbsp;
+<a href="https://aws.amazon.com/">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
-<a href="https://cloud.google.com/" target="_blank">
-  <img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white" />&nbsp;
+<a href="https://cloud.google.com/">
+  <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </a>
 
-<a href="https://azure.microsoft.com/en-us/products/devops/" target="_blank">
-  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white" />&nbsp;
+<a href="https://azure.microsoft.com/en-us/products/devops/">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" />
 </a>
 
-<a href="https://www.docker.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
+<a href="https://www.docker.com/">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </a>
 
-<a href="https://github.com/features/actions" target="_blank">
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />&nbsp;
+<a href="https://github.com/features/actions">
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
 </a>
 
 ---
 
 ### 🧪 Quality
 
-<a href="https://jestjs.io/" target="_blank">
-  <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white" />&nbsp;
+<a href="https://jestjs.io/">
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </a>
 
 ---
 
 ### 🤖 AI & Data
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />&nbsp;
+<a href="https://www.python.org/">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />&nbsp;
+<a href="https://pytorch.org/">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </a>
 
-<a href="https://scikit-learn.org/" target="_blank">
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />&nbsp;
+<a href="https://scikit-learn.org/">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
 </a>
 
 ---
 
 ### ⛓️ Blockchain
 
-<a href="https://solana.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white" />&nbsp;
+<a href="https://solana.com/">
+  <img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" />
 </a>
 
-<a href="https://eosnetwork.com/" target="_blank">
-  <img src="https://img.shields.io/badge/EOS-000000?style=flat-square&logo=eosio&logoColor=white" />&nbsp;
+<a href="https://eosnetwork.com/">
+  <img src="https://img.shields.io/badge/EOS-000000?style=for-the-badge&logo=eosio&logoColor=white" />
 </a>
 
 ---
 
 ### 🎮 Other
 
-<a href="https://unity.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />&nbsp;
+<a href="https://unity.com/">
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />&nbsp;
+<a href="https://isocpp.org/">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </a>
 
-<a href="https://cursor.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=flat-square&logo=cursor&logoColor=white" />&nbsp;
+<a href="https://cursor.com/">
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white" />
 </a>
 
 ---
@@ -264,12 +264,12 @@ FAST NUCES, Lahore
 ---
 
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />&nbsp;
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />&nbsp;
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
