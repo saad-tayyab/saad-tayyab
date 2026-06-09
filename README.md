@@ -152,7 +152,6 @@ Happy to chat about backend systems, event-driven design, spec-driven developmen
 
 - 📧 [saad_tayyab@outlook.com](mailto:saad_tayyab@outlook.com)
 - 💼 [linkedin.com/in/saadtayyab](https://linkedin.com/in/saadtayyab)
-- 💻 [github.com/saad-tayyab](https://github.com/saad-tayyab)
 
 ---
 
